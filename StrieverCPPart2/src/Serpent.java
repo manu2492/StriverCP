@@ -1,5 +1,3 @@
-package Part2.src;
-
 import java.util.*;
 
 public class Serpent {
