@@ -14,10 +14,9 @@ public class A10ABeatifulMatrix {
         }
         for (int i = 0; i < 5; i++) {
             for (int j = 0; j < 5; j++) {
-                if (matrix[i][j] == '1') {
+                if (matrix[i][j] == 'R') {
                     r = i;
                     c = j;
-                    break;
                 }
             }
         }
